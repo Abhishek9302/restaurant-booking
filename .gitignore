@@ -1,6 +1,11 @@
 node_modules/
 dist/
-build/
 .next/
-out/
+build/
 .env
+.env.local
+.env.production.local
+*.log
+coverage/
+.DS_Store
+.turbo/
