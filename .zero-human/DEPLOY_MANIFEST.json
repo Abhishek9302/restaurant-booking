@@ -1,7 +1,7 @@
 {
   "monorepoStructure": {
     "frontend": "apps/frontend",
-    "backend": "apps/backend",
+    "backend": "backend",
     "database": "database"
   }
 }
